@@ -236,6 +236,10 @@ button.default {
 		z-index:-1;
 	}
 	
+	_::-webkit-full-page-media, _:future, :root .middle .bg-bottom-left {
+		bottom: -192px;
+	}
+	
 	.title {
 		width: 100%;
 		height: 39px;
